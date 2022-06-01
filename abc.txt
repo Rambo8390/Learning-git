@@ -1,5 +1,0 @@
-This is an abc.txt file
-
-this is an new file
-
-Changes made after pushing in github
